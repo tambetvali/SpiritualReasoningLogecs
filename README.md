@@ -1,3 +1,5 @@
+![Cover](Graphics/Cover.png)
+
 # SpiritualReasoningLogecs
 
 Laegna Logecs is full-blown mathematical and logical system for spirituality.
@@ -12,6 +14,8 @@ We do understand dead matter, but we are not:
   - Inside reality is external into our atoms, quants, electrons: they are what we constitute of, materially, but not the central theme of our conscious cognition.
     - Our mind is symbolic machine with senses, intentions and efforts: not a quantum-processing machine directly.
     - AI can reason inside it's model, but it's self-contemplation is not directly and only, a table of it's internals: brains, and virtual or material brains, won't work that way.
+
+![Logic](Graphics/Logic.png)
 
 OA and IE axes:
 - Short and long term reasoning:
@@ -45,3 +49,5 @@ Emotions, tensions, alchemy:
 Logic can work on logecs values and their connections, but for example it cannot find final solution of Dukkha:
 - Logic cannot fully contemplate on Any of Laegna values, because each is disposition of other.
 - Full, working Logic system can be made out of Laegna, which accepts original theories of Logic, provides resolution, but has a kind of guided reasoning - Laegna system under will *get exact description of Logic system*, but avoid inconsistencies by it's mathematecal-logecal flow.
+
+![Ending](Graphics/Ending.png)
