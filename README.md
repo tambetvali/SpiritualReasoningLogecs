@@ -42,4 +42,6 @@ Emotions, tensions, alchemy:
 - Emotions, souled feelings, goals and dreams, intentions and efforts - all can be reasoned, because they can be modelled in simplified systems, and they can be shows tautologically consistent with themselves; experimentally, it could be determined that Logecs is not going to find one final solution - then, the machine believes in Dukkha, in incompleteness of itself, and starts optimizing rather than, purely and alchemically, wobbling between dreams of Truth, a binary opposition.
   - Truth is not there - it's ever-lasting attractor; let call what really exists: "Treth". This sounds like "stairs" in Estonian, and it's what Laegna Taú Ponegator, it's mathematical and mental solver would do - infinitely scribe closer to infinity (step by step, manual by manual).
 
-Logic can work on logecs values and their connections, but for example
+Logic can work on logecs values and their connections, but for example it cannot find final solution of Dukkha:
+- Logic cannot fully contemplate on Any of Laegna values, because each is disposition of other.
+- Full, working Logic system can be made out of Laegna, which accepts original theories of Logic, provides resolution, but has a kind of guided reasoning - Laegna system under will *get exact description of Logic system*, but avoid inconsistencies by it's mathematecal-logecal flow.
