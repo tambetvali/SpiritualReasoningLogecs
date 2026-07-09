@@ -1,5 +1,8 @@
 # Logecs Life
 
+- https://github.com/tambetvali/Laegna18/blob/main/README.md - might seem surprising, but given document, Laegna18, is made to support this article, Logex Life - and this, because 18 mappings just illustrate the realm where you operate so well, and somewhat extend the systems given here, not leaving the ordered manner of basic logic: without 18, basic logic might be lost in trivial complications, and while mathematicians find this doc useful, logicians would find it too complex to *run into square fields and theorem graphs*, rather you would speak abotu quantities of math - with 18, you linearize, and linearized system is 3-bit system in logic, so you can watch exponent and linear growth better in logical, square-based realm.
+  - For example, describe actors and their relations. Describe this holds for two weeks. You need 18 linearization to interpolate the ordering of value samples in way that you can see the logic system, rather linear: you can linearly state, that in value-positioning fractal of these numbers, Position=>Posetion holds, which is already very upside-down way to follow the states but at least, altough the coordinate systems must be heavily upset in this relation, you find the 18 rates of octave-reproduction where dimensionality just wheels. Symmetric, objective (discrete pattern, repetition) and aligned to your mind and spirituality.
+
 How Laegna Logecs is used in Life and life-like automation?
 
 ```prolog
