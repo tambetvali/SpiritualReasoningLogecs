@@ -1,3 +1,5 @@
+![Viking Shamanism 3](Graphics/MateShamanC.png)
+
 This is based on Shamanism:
 
 We are part of physical systems:
@@ -26,4 +28,8 @@ So, how far can we be from physical system?
 The reasoning becomes fundamental and ideal:
 - Our true self - we identify ourselves through causes deeper than physical field, and whether it's local, absolute and logical, or decision made on it's first moment, aspectually, and whether creatures exist in other possibilities to measure them, visible in where possibility field starts to adapt choice and tensions, and becomes real: in something or in real. In each case, our identification is choice in relation to matter, to what is given, and reflects on the absolute rather than existing in it's terms. This is our soul.
 
+![Viking Shamanism 1](Graphics/MateShamanA.png)
+
 We share powers - we utilize structures of physical field for our makeup, as we evolve in physical conditioning. It's the second question of Viking Shamanism: how far this has got us, and how much it's our material seed function?
+
+![Viking Shamanism 2](Graphics/MateShamanB.png)
