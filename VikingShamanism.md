@@ -8,6 +8,8 @@ We are part of physical systems:
 - Our mental nervous systems are thermodynamic mappings - we have existential (would I exist or not) and energy-material (can I move here or not) and energy-spiritual (does this movement evolve, accelerate as eternity - system above space, all life, and time, it's consequence and future where positive energies always infer positive energies, and probabilistic outcome of this is E+).
   - This infinity of E system gives E+ and E- - success+ and failure-; negative infinity of I gives I+ and I- - growth+ and remaining-, where success and failure could be ironic terms or outscope, binary kind of logic.
 
+![Equation Shamanism 1](Graphics/EquationShamanA.png)
+
 Now:
 - Our whole evolution is balance of material, matter and life systems, spirit.
 - Thermodynamic goals of energy:
@@ -31,5 +33,7 @@ The reasoning becomes fundamental and ideal:
 ![Viking Shamanism 1](Graphics/MateShamanA.png)
 
 We share powers - we utilize structures of physical field for our makeup, as we evolve in physical conditioning. It's the second question of Viking Shamanism: how far this has got us, and how much it's our material seed function?
+
+![Equation Shamanism 2](Graphics/EquationShamanB.png)
 
 ![Viking Shamanism 2](Graphics/MateShamanB.png)
