@@ -19,8 +19,20 @@ Now:
       - Because they provide endless, stopless, tension to keep their own energy straight.
         - Thus our energy is close to literal accumulation of this, and accumulation of the essential - our goal-state reasoning tables are equal.
 
+<br>
+
+![Equation Mech IQ](Graphics/EquationShamanMech.png)
+
+<br>
+
 For example we decide to do something with strong force - physical system, the same moment and place, must decide to do it with same force.
 - We decide future with mental force - physical system might not be directly aware, but it's future-sensitivity is enough to keep it under sharp force.
+
+<br>
+
+![Equation AI IQ](Graphics/EquationShamanAI.png)
+
+<br>
 
 Shamanistic:
 - If we don't agree to physics, would we not be dead?
@@ -30,10 +42,22 @@ So, how far can we be from physical system?
 The reasoning becomes fundamental and ideal:
 - Our true self - we identify ourselves through causes deeper than physical field, and whether it's local, absolute and logical, or decision made on it's first moment, aspectually, and whether creatures exist in other possibilities to measure them, visible in where possibility field starts to adapt choice and tensions, and becomes real: in something or in real. In each case, our identification is choice in relation to matter, to what is given, and reflects on the absolute rather than existing in it's terms. This is our soul.
 
+<br>
+
 ![Viking Shamanism 1](Graphics/MateShamanA.png)
+
+<br>
 
 We share powers - we utilize structures of physical field for our makeup, as we evolve in physical conditioning. It's the second question of Viking Shamanism: how far this has got us, and how much it's our material seed function?
 
+<br>
+
 ![Equation Shamanism 2](Graphics/EquationShamanB.png)
 
+<br>
+
 ![Viking Shamanism 2](Graphics/MateShamanB.png)
+
+<br>
+
+![Equation Freya Running](Graphics/EquationFreyaRunning.png)
