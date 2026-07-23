@@ -1,3 +1,6 @@
+Various image generation models were asked to generate images of a realm, where everything - physics, beings, anything which exists or can be modelled - is continuously flowing past any paradox; yet it must be a realm, where evolution otherwise reminds Earth, not very distant apart. So these are the AI images, which probably reflect on how this semantically connects, and mathematically varies.
+
+<br>
 
 ![Nature 0](Graphics2/Nature0.png)
 
