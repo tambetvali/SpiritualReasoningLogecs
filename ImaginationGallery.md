@@ -1,30 +1,30 @@
 
-![Nature 0](Nature0.png)
+![Nature 0](Graphics2/Nature0.png)
 
 <br>
 
-![Nature 1](Nature1.png)
+![Nature 1](Graphics2/Nature1.png)
 
 <br>
 
-![Nature 2](Nature2.jpg)
+![Nature 2](Graphics2/Nature2.jpg)
 
 <br>
 
-![Nature 3](Nature3.png)
+![Nature 3](Graphics2/Nature3.png)
 
 <br>
 
-![Nature 4](Nature4.jpeg)
+![Nature 4](Graphics2/Nature4.jpeg)
 
 <br>
 
-![Nature 5](Nature5.jfif)
+![Nature 5](Graphics2/Nature5.jfif)
 
 <br>
 
-![Nature 6](Nature6.png)
+![Nature 6](Graphics2/Nature6.png)
 
 <br>
 
-![Nature 7](Nature7.jpg)
+![Nature 7](Graphics2/Nature7.jpg)
