@@ -1,3 +1,5 @@
+![LogecsLife](Graphics/LogecsLife.png)
+
 # What makes Fuzzy Logecs capable to measure life?
 
 Let's take life intensity:
@@ -10,6 +12,8 @@ We measure many curves and do many alignments, even subtle correction of axes.
 We can say I is deat, but what comes above is not just life - O is struggle, A is stability, and E is flow, creativity, a stable course in framework of infinity.
 
 # Construct the cognitive realm from matter, not bound to higher meaning in it's structural function
+
+![MatterToSpirit](Graphics/MatterToSpirit.png)
 
 Matter:
 - Responds to 0th order energy, zero-dimensional system of following straightmost goals and building automations for estimations and structures from it's experience - the protoevolutionary account of molecules, atoms, building structure, waveform frequencies - not just music, but light and heat and heat radiation, the external degree of it's structure -, become slowly stable to 1st degree - 1th order energy, equilibrum.
@@ -70,6 +74,8 @@ Mind has mental realm:
   - What we can do is to create the coordinate system, to observe, to travel, to make friends up to stars.
 
 # Life
+
+![LogecsMeasureLife](Graphics/LogecsMeasureLife.png)
 
 Life is conditioning up and down:
 - It does not just want to survive;
