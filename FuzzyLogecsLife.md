@@ -39,6 +39,8 @@ Material parts of mind now have primitive elements of low level of higher cognit
 
 ## Mind constructs Spirit
 
+![MatterLifeSpirit](Graphics/MatterLifeSpirit.png)
+
 Mind creates mental realm, where life connects.
 
 Matterial particles are far apart, in reaction not in unity:
@@ -210,3 +212,5 @@ Corporation.
 ```
 
 Both are True, but for example business and life and honour theories are not established (imported in some language), and since that - for example if Mary, somehow, sets Corporation to True, which is very hard in logic to express - even worse, so what, what is the condition or any implied matter in real life? For example you could set bugs in forest to true - in logic, it makes the same sense (in logecs, you can relate bugs easily, but in logic you do not know whether to set bugs to true now, and what to do with case if some things are true - why should they be interrelated, and maybe you just listed your garbage items and tasks and mark them false only if done - in logic, this is all mixed up, so you must explain *at least something* before the question to ask whether Mary and Corporation are friends, or why they appear in your same table and what to do now - is true?).
+
+![MLSEnding](Graphics/MLSEnding.png)
