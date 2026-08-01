@@ -1,5 +1,9 @@
 ![Cover](Graphics/Cover.png)
 
+Webpages for this material:
+- [bolt.new webpage](https://spiritual-reasoning-kk9x.bolt.host)
+- [base44 website](https://synaptic-logic-dome.base44.app/)
+
 # SpiritualReasoningLogecs
 
 Laegna Logecs is full-blown mathematical and logical system for spirituality.
