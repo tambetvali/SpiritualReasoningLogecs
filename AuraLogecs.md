@@ -1,3 +1,7 @@
+![Gfx](Graphics/AuricVisions.png)
+
+<br>
+
 # Auric Visions in Logecs
 
 Meditation process:
