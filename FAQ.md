@@ -1,3 +1,7 @@
+![Gfx](Graphics/FAQ.png)
+
+<br>
+
 # FAQ of Life, Spirituality and Goal in Logecs
 
 ## Q1: many spiritual definitions do not apply to material, cause-based logic.
